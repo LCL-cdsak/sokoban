@@ -1,2 +1,16 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/img">
+        <file>images/LLOYDblack-hole.jpg</file>
+        <file>images/black-holes-1024x672.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/ground.png</file>
+        <file>images/wall.png</file>
+        <file>images/man.png</file>
+        <file>images/goal.png</file>
+        <file>images/box.png</file>
+        <file alias="target">images/download.png</file>
+        <file>images/minecraft-creeper_orig.jpg</file>
+        <file>images/pngtree-cartoon-bomb-background-and-explosive-light-vector---illustration-png-image_1692128.jpg</file>
+    </qresource>
+</RCC>
