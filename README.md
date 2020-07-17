@@ -1,4 +1,4 @@
-# 2020-pd2-sokoban
+# sokoban
 ## Video link
 https://youtu.be/Pt8Bgluqd6A
 
